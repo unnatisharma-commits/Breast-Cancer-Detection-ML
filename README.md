@@ -39,7 +39,6 @@ This project was developed collaboratively as a group project.
 
 | S. No. | Team Member Name | GitHub Username |
 |---|---|---|
-| 1 | Your Name | YOUR_USERNAME |
-| 2 | Member 2 Name | MEMBER2_USERNAME |
-| 3 | Member 3 Name | MEMBER3_USERNAME |
-| 4 | Member 4 Name | MEMBER4_USERNAME |
+| 1 | Unnati Sharma | unnatisharma-commits |
+| 2 | Parneet Kaur | ppannu398-web |
+| 3 | Charankamalpreet Kaur | charankamal005-eng |
